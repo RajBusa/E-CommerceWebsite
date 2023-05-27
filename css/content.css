@@ -67,6 +67,31 @@ h2
 {
     color: rgb(3, 94, 94);
 }
+button
+{
+    padding: 10px 15px;
+    color: white;
+    background-color: rgb(3, 122, 122);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+button a
+{
+    text-decoration: none;
+    font-size: 18px;
+}
+button:hover
+{
+    background-color: rgb(3, 94, 94);
+}
+button a:focus
+{
+    outline: none;
+}
+
 
 /* ----------------------------- MEDIA QUERY --------------------------- */
 
