@@ -2,7 +2,7 @@ let mainContainer = document.getElementById("mainContainer");
 let containerClothing = document.getElementById("containerClothing");
 let containerAccessories = document.getElementById("containerAccessories");
 
-fetch('./data.json')
+fetch('data.json')
   .then(response => response.json())
   .then(data => {
     // Store the JSON data in a variable
