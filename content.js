@@ -11,39 +11,28 @@ const jsonData = [
     "affiliatelink": "https://amzn.to/43d4989"
   },
   {
-    "name": "Men Navy Blue Solid Sweatshirt",
-    "photo": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7579188/2018/11/5/08a7b230-ee8f-46c0-a945-4e835a3c01c01541402833619-United-Colors-of-Benetton-Men-Sweatshirts-1271541402833444-1.jpg",
-    "description": "Navy solid sweatshirt with patchwork, has a round neck, long sleeves, straight hem",
-    "brand": "United Colors of Benetton",
-    "affiliatelink": "https://amzn.to/3ovwI1E"
+    "name": "Realme narzo N55 (Prime Black, 4GB+64GB)",
+    "photo": "https://m.media-amazon.com/images/I/81ogvU1j6qL._SX679_.jpg",
+    "description": "With fast 33W SUPERVOOC charging, the realme narzo N55 charges up the massive 5000mAh battery from 0-50% in just 29 minutes, making your life super convenient and stress free",
+    "affiliatelink": "https://amzn.to/3C3SFYN"
   },
   {
-    "name": "Men Black MAMGP T7 Sweat Sporty Jacket",
-    "photo": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2060340/2017/9/14/11505387708574-Puma-Men-Black-Solid-Sporty-Jacket-371505387708496-1.jpg",
-    "description": "Black solid sporty jacket, has a mock collar, 3 pockets, zip closure, long sleeves, straight hem, unlined lining",
-    "brand": "Puma",
-    "affiliatelink": "https://amzn.to/3ovwI1E"
+    "name": "Redmi Pad | MediaTek Helio G99 | 26.95cm (10.61 inch) 2K Resolution & 90Hz Refresh Rate Display | 4GB RAM & 128GB Storage, Expandable up to 1TB | Quad Speaker - Dolby Atmos | Wi-Fi | Graphite Gray",
+    "photo": "https://m.media-amazon.com/images/I/51DgLLc+LFL._SX679_.jpg",
+    "description": "MediaTek Helio G99 Octa-Core processor | ARM Mali-G57 MC2 GPU | 4GB RAM | 128GB Internal Storage | Expandable upto 1TB with SD Card",
+    "affiliatelink": "https://amzn.to/3C2JEiu"
   },
   {
-    "name": "Men Black Action Parkview Lifestyle Shoes",
-    "photo": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2018/9/19/b1373b00-37d4-41a0-a908-5d742a68d3661537343756229-1.jpg",
-    "description": "Flaunt an effortless look with this ultimate pair of black coloured formal shoes from the house of Hush Puppies.",
-    "brand": "Hush Puppies",
-    "affiliatelink": "https://amzn.to/3ovwI1E"
+    "name": "ASUS TUF Gaming A15 (2022), 15.6 (39.62 cm) FHD 144Hz, AMD Ryzen 7 6800H, 4GB RTX 3050Ti Graphics, Gaming Laptop (16GB/512GB SSD/90WHrs Battery/Win 11/with Office/Jaeger Gray/2.2 kg), FA577RE-HN055WS",
+    "photo": "https://m.media-amazon.com/images/I/71NxKpg1NIL._SX679_.jpg",
+    "description": "Processor: AMD Ryzen 7 6800HS Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost)",
+    "affiliatelink": "https://amzn.to/3MGvo3N"
   },
   {
-    "name": "Women Black Solid Lightweight Leather Jacket",
-    "photo": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/3854721/2018/3/12/11520844673915-BARESKIN-Women-Black-Solid-Lightweight-Leather-Jacket-7761520844673718-1.jpg",
-    "description": "Black solid leather jacket, has a spread collar, 3 pockets, zip closure, long sleeves, straight hem, polyester lining",
-    "brand": "BARESKIN",
-    "affiliatelink": "https://amzn.to/3ovwI1E"
-  },
-  {
-    "name": "Women Blue Solid Shirt Dress",
-    "photo": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/5649908/2018/5/10/6bfe80cd-2f55-42bc-aa7f-e0d6c9e2ac531525936414747-SASSAFRAS-Women-Blue-Solid-Shirt-Dress-3831525936414532-1.jpg",
-    "description": "Blue solid woven shirt dress, has a shirt collar, sleeveless, button closure, flared hem",
-    "brand": "SASSAFRAS",
-    "affiliatelink": "https://amzn.to/3ovwI1E"
+    "name": "Nothing Ear (stick) - wireless In Ear earbuds, comfortable ergonomic design, 4.4g ultra lightweight, custom dynamic driver, Clear Voice Technology, press controls, up to 29 hrs of listening time",
+    "photo": "https://m.media-amazon.com/images/I/61pWIvIfpfL._SL1500_.jpg",
+    "description": "Designed for comfort. Feather-light at just 4.4 g. Ergonomically shaped not to be noticed by over 100 pairs of ears Vivid sound. One of the most sensitive drivers in any wireless earbud. At just 12.6mm",
+    "affiliatelink": "https://amzn.to/43eIgFy"
   }
 ]
 
