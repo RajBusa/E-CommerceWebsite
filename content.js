@@ -31,7 +31,7 @@ const jsonData = [
   {
     "name": "Nothing Ear (stick) - wireless In Ear earbuds, comfortable ergonomic design, 4.4g ultra lightweight, custom dynamic driver, Clear Voice Technology, press controls, up to 29 hrs of listening time",
     "photo": "https://m.media-amazon.com/images/I/61pWIvIfpfL._SL1500_.jpg",
-    "description": "Designed for comfort. Feather-light at just 4.4 g. Ergonomically shaped not to be noticed by over 100 pairs of ears Vivid sound. One of the most sensitive drivers in any wireless earbud. At just 12.6mm",
+    "description": "Designed for comfort. Feather-light at just 4.4 g. Ergonomically shaped not to be noticed by over 100 pairs of ears Vivid sound.",
     "affiliatelink": "https://amzn.to/43eIgFy"
   }
 ]

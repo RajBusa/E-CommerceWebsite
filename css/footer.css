@@ -38,7 +38,12 @@ body
     font-size: 11px;
     letter-spacing: 1px;
 }
-
+#credit p{
+    width: 100%;
+    margin: 0;
+    text-decoration: none;
+    
+}
 #credit a
 {
     color: white;
