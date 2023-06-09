@@ -4,6 +4,14 @@ let containerAccessories = document.getElementById("containerAccessories");
 
 const jsonData = [
   {
+    name: "Red Tape Sneaker Casual Shoes",
+    photo: "https://m.media-amazon.com/images/I/613QVGgweAL._UL1440_.jpg",
+    description:
+      "Red Tape Sneaker Casual Shoes for Men provide exceptional comfort with a soft cushioned insole, slip-resistance, dynamic feet support, arch support, and shock absorption.",
+    brand: "Red Tape",
+    affiliatelink: "https://amzn.to/3P3yJNq",
+  },
+  {
     name: "Sharpex 12 Inch Electric Lawn Mower with 30 LTR Grass Catcher Box",
     photo: "https://m.media-amazon.com/images/I/71hKhi5DV4L._SY355_.jpg",
     description:
